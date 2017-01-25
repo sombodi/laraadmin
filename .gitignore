@@ -4,3 +4,4 @@
 Homestead.yaml
 Homestead.json
 .env
+src/Installs/resources/views/welcome.blade.php
